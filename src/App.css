@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title-style {
+  font-family: Georgia, serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+}
